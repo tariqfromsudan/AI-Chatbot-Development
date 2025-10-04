@@ -67,7 +67,8 @@ Together, they demonstrate both modern AI-driven and classic NLP-driven chatbot 
 AI-Chatbot-Development/
 ├── olama based chatbot.py             
 ├── nltk based chatbot.py    
-├── REPORT.pdf               
+├── Documentation/
+              └── Report.pdf  
 ├── requirements.txt          
 └── README.md           
 ```
