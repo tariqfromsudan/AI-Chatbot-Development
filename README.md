@@ -64,12 +64,12 @@ Together, they demonstrate both modern AI-driven and classic NLP-driven chatbot 
 ## 📂 Project Structure
 
 ```
-ai-chatbot/
-├── chatbot.py          # Ollama-based chatbot (LLM-powered)
-├── nltk_chatbot.py     # NLTK-based chatbot (rule-based NLP)
-├── REPORT.pdf          # Academic project report
-├── requirements.txt    # Python dependencies
-└── README.md           # Project documentation
+AI-Chatbot-Development/
+├── olama based chatbot.py             
+├── nltk based chatbot.py    
+├── REPORT.pdf               
+├── requirements.txt          
+└── README.md           
 ```
 
 ---
