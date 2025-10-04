@@ -68,7 +68,7 @@ AI-Chatbot-Development/
 ├── olama based chatbot.py             
 ├── nltk based chatbot.py    
 ├── Documentation/
-              └── Report.pdf  
+              └── Local AI Chatbot.pdf 
 ├── requirements.txt          
 └── README.md           
 ```
