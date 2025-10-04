@@ -1,3 +1,6 @@
 Python 3.10+
 
+For Ollama based chatbot:
 Ollama (installed and running locally)
+For nltk based chatbot:
+nltk
